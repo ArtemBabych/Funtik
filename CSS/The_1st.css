@@ -1,0 +1,22 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+p {
+    color:rgb(4, 48, 27);
+    font-size: 400%;
+    background-color: rgba(145, 247, 219, 0.3);
+    max-width: 100%;
+    font-weight: bold;
+    margin-top: 1cm;
+    position: relative;
+    left: 0px;
+    padding-left: 50px;
+}
+p:hover {
+    color: hsl(108, 60%, 95%);
+}
+body {
+    background-image: url("../Images/Mr.Funtik.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
